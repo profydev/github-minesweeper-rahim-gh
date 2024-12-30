@@ -6,6 +6,10 @@
       "flag H6",
       "flag C3",
       "flag D2",
+<<<<<<< HEAD
       "clear B3"
+=======
+      "clear B3",
+>>>>>>> origin/move-1-2
   ]
 }
